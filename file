@@ -11,5 +11,7 @@ int main(){
     printf("hello wordl");
     printf("hello wordl");
     printf("hello wordl");
+    printf("hello wordl");
+    printf("hello wordl");
     return 0;
 }
